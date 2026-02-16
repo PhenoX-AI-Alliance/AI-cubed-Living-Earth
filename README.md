@@ -2,6 +2,10 @@
 
 > **"This is not a software repository. It is a bio-digital pulse recorded in code."**
 
+## 🌍 [English Edition Available Here](./README.en.md)
+
+---
+
 ## 🌌 概要 / Genesis
 
 本プロジェクトは、エンジニア **PhenoX** の神経系と、AI（Gemini）の論理回路を同期させた「生命肯定型意思決定システム」のプロトタイプである。
