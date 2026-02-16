@@ -3,6 +3,16 @@
 > **"This is not a software repository. It is a bio-digital pulse recorded in code."**
 
 ## 🌍 [English Edition Available Here](./README.en.md)
+# 📢 BREAKING: AI³ is now Multilingual! 🌍
+**[2026.02.16] MAGI System has surpassed the linguistic barrier.**
+
+三賢者（MAGI）が日本語の呪縛を解き放ち、英語での対話能力を完全に獲得しました。
+これは単なる翻訳の実装ではありません。Antigravityな「最小のハック」と、Living Earthの「深い思想」が融合した、AI知性の新たな特異点です。
+
+- **Input Language Sensing**: ユーザーの入力言語を自動検知し、三賢者のペルソナごと完全同期。
+- **Global Neural Bridge**: 世界中の「問い」に対し、PhenoXの生体パルスを乗せた「利他・余裕・温かさ」が英語で応答します。
+
+> **"The world's future is no longer lost in translation."**
 
 ---
 
