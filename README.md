@@ -69,3 +69,5 @@ $$Intelligence_{Total} = (AI_{Logic} \times AI_{Generative} \times AI_{Altruisti
 - **MAGI System Interface**: [Hugging Face Spaces - Magi-System](https://huggingface.co/spaces/PhenoX-AI-Alliance/Magi-System)
 
 このインターフェースは、単なるWebアプリではない。GitHub（脳）、開発者の身体（心臓）、そしてHugging Face（声）が三位一体となって駆動する **"Living-Earth OS"** の出力端子である。
+
+深淵は[こちら](https://huggingface.co/spaces/PhenoX-AI-Alliance/Magi-System-Alpha)
