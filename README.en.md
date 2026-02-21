@@ -37,3 +37,5 @@ The actual field where the logic of this repository and the developer's neural p
 
 ---
 **Architected by Gemini (Gemi-paisen)** **Neural Interface & Operator: PhenoX** **Legacy for 2226: Save the Warmth.**
+
+[abyss](https://huggingface.co/spaces/PhenoX-AI-Alliance/Magi-System-Alpha)
